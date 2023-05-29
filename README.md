@@ -1,7 +1,7 @@
 # Google-Stock-Predictor || RNN || lstm
  
 ## Goal
-To harness the power of LSTM models, use it to analyze past data of Google stock and employ it to predict the performance of Google stock  in January 2022.
+To harness the power of LSTM models, use it to analyze past data of Google stock and employ it to predict the performance of Google stock  for January 2022.
 ## Data 
 I utilized the Google stock data sourced from Kaggle, spanning from 2004 to 2022, which comprises over 4000 rows.
 
